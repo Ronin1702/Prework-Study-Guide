@@ -2,10 +2,10 @@
 # Prepared By: Kai Chen
 ## Description
 
--This Prework Study Guide was created for boot camp students who were going through the Prework. 
--It contains notes on HTML, CSS, Git, and JavaScript.
--I've built this webpage to keep track of what I've learned in the Boot Camp.
--I've learned the most basics about HTML, CSS, Git, and JavaScript.
+<p>This Prework Study Guide was created for boot camp students who were going through the Prework. </p>
+It contains notes on HTML, CSS, Git, and JavaScript.
+I've built this webpage to keep track of what I've learned in the Boot Camp.
+I've learned the most basics about HTML, CSS, Git, and JavaScript.
 
 ## Table of Contents (Optional)
 - [Installation](#installation)
