@@ -1,5 +1,5 @@
 module.exports = {
   kit: {
-    floc: true
+    floc: false
   }
 };
